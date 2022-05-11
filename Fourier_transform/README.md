@@ -19,6 +19,6 @@ Discrete periodic signal
 
 Discrete non-periodic signal
 
-## Discrete Fourier transorm
+## Discrete Fourier Transform
 
 This is design for computer.
