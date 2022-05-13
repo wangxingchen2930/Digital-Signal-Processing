@@ -1,5 +1,6 @@
 # Fourier Transform
 
+Both Fourier Series and Fourier Transform are basically decompose signal into orthogonal basis.
 
 ## Fourier Series
 
