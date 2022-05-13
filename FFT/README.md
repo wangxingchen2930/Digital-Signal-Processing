@@ -7,3 +7,5 @@ The FFT result of a real signal is symmetric. Thus, the second half of the outpu
 There are two spectrum in frequency domain:
 - amplitude spectrum
 - phase spectrum
+
+The output and input of FFT have same dimensions,
